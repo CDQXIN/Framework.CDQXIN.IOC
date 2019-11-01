@@ -83,7 +83,7 @@ namespace Framework.CDQXIN.IOC
 
                     foreach (var assembly in assemblies)
                     {
-                        if (assembly.FullName.Contains("Framework.Mayiboy.MvcExtensions"))
+                        if (assembly.FullName.Contains("Framework.MvcExtensions"))
                         {
                             continue;
                         }
