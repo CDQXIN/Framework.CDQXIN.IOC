@@ -17,7 +17,7 @@ namespace Framework.CDQXIN.IOC
     public class TypeFinder
     {
 
-        //FinderType
+        //FinderType1
         private const string IocAssembliesConfigName = "ioc:assemblies";
 
         /// <summary>
